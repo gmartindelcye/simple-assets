@@ -1,0 +1,12 @@
+painting_info = {
+    'artist': 'Leonardo Da Vinci',
+    'attribution': 'Original',
+    'condition': 'Excellent',
+    'rarity': 'One-of-a-kind',
+    'historical_significance': 'Iconic masterpiece of the Renaissance',
+    'subject_matter': 'Portrait of Lisa Gherardini, wife of Florentine merchant Francesco del Giocondo',
+    'market_demand': 'Extremely high',
+    'exhibition_history': 'Displayed in the Louvre Museum, Paris since 1797',
+    'provenance': 'Originally commissioned by Francesco del Giocondo; later acquired by French King Francis I',
+    'appraisal': 'Valued at priceless'
+}
